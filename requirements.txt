@@ -1,0 +1,7 @@
+keras
+pandas
+tensorflow
+librosa
+kagglehub
+numpy
+plotly
